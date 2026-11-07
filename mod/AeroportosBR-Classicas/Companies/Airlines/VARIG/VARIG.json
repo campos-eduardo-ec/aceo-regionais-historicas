@@ -1,0 +1,36 @@
+{
+  "name": "VARIG Clássica [Aeroportos BR]",
+  "description": "Historical VARIG, 1996–2006 identity. Selected fleet: Boeing 737-800 and 767-300. Not a present-day airline.",
+  "customDescription": {
+    "pt-BR": "VARIG, identidade histórica da fase 1996–2006. Frota selecionada: Boeing 737-800 e 767-300. Não é uma companhia atual.",
+    "en": "Historical VARIG, 1996–2006 identity. Selected fleet: Boeing 737-800 and 767-300. Not a present-day airline."
+  },
+  "logoPath": "VARIG.png",
+  "invLogoPath": "VARIG_INV.png",
+  "businessType": 4,
+  "businessClass": 3,
+  "CEOName": "Diretoria histórica / Historical management",
+  "flightPrefix": "RG",
+  "countryCode": "BR",
+  "fleet": [
+    "B737800",
+    "B767300"
+  ],
+  "fleetCount": [
+    4,
+    2
+  ],
+  "isCustom": true,
+  "backgroundColor": {
+    "r": 10,
+    "g": 43,
+    "b": 94,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

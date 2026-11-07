@@ -1,0 +1,92 @@
+{
+  "aircraftType": "ATR72",
+  "liveryFileName": "ATR72_TRIP.png",
+  "pixelSize": 205,
+  "liveryComponent": [
+    {
+      "name": "Fuselage",
+      "layerOrder": 1,
+      "slicePosition": {
+        "x": 0,
+        "y": 0
+      },
+      "sliceSize": {
+        "x": 4096,
+        "y": 525
+      },
+      "position": {
+        "x": -0.08,
+        "y": 0.004,
+        "z": 0
+      },
+      "rotation": 180
+    },
+    {
+      "name": "Engine1",
+      "layerOrder": 1,
+      "slicePosition": {
+        "x": 1276,
+        "y": 535
+      },
+      "sliceSize": {
+        "x": 333,
+        "y": 138
+      },
+      "position": {
+        "x": -1.856,
+        "y": 3.33,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 180
+    },
+    {
+      "name": "Engine2",
+      "layerOrder": 1,
+      "slicePosition": {
+        "x": 1276,
+        "y": 707
+      },
+      "sliceSize": {
+        "x": 333,
+        "y": 138
+      },
+      "position": {
+        "x": -1.856,
+        "y": -3.33,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 180
+    },
+    {
+      "name": "Tail",
+      "layerOrder": 2,
+      "slicePosition": {
+        "x": 17,
+        "y": 539
+      },
+      "sliceSize": {
+        "x": 1216,
+        "y": 328
+      },
+      "position": {
+        "x": 9.261,
+        "y": 0,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 90
+    }
+  ],
+  "isSpecial": false
+}

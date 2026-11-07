@@ -1,0 +1,34 @@
+{
+  "name": "Transbrasil Histórica [Aeroportos BR]",
+  "description": "Historical Transbrasil rainbow livery inspired by the 1979–1998 identity, on Boeing 767-300. Not a present-day airline.",
+  "customDescription": {
+    "pt-BR": "Transbrasil, pintura histórica arco-íris inspirada na identidade 1979–1998, em Boeing 767-300. Não é uma companhia atual.",
+    "en": "Historical Transbrasil rainbow livery inspired by the 1979–1998 identity, on Boeing 767-300. Not a present-day airline."
+  },
+  "logoPath": "Transbrasil.png",
+  "invLogoPath": "Transbrasil_INV.png",
+  "businessType": 4,
+  "businessClass": 2,
+  "CEOName": "Diretoria histórica / Historical management",
+  "flightPrefix": "TR",
+  "countryCode": "BR",
+  "fleet": [
+    "B767300"
+  ],
+  "fleetCount": [
+    2
+  ],
+  "isCustom": true,
+  "backgroundColor": {
+    "r": 35,
+    "g": 49,
+    "b": 113,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

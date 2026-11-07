@@ -1,0 +1,82 @@
+{
+  "aircraftType": "B767300",
+  "liveryFileName": "B767300_VARIG.png",
+  "pixelSize": 188,
+  "liveryComponent": [
+    {
+      "name": "Fuselage1",
+      "layerOrder": 5,
+      "slicePosition": {
+        "x": 4,
+        "y": 687
+      },
+      "sliceSize": {
+        "x": 3562,
+        "y": 658
+      },
+      "position": {
+        "x": -9.0239,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "Fuselage2",
+      "layerOrder": 4,
+      "slicePosition": {
+        "x": 255,
+        "y": 4
+      },
+      "sliceSize": {
+        "x": 3827,
+        "y": 657
+      },
+      "position": {
+        "x": 9.9,
+        "y": 0,
+        "z": 0
+      }
+    },
+    {
+      "name": "Engine1",
+      "layerOrder": 0,
+      "slicePosition": {
+        "x": 3666,
+        "y": 692
+      },
+      "sliceSize": {
+        "x": 358,
+        "y": 850
+      },
+      "position": {
+        "x": 4.185,
+        "y": 5.297,
+        "z": 0
+      },
+      "rotation": 270
+    },
+    {
+      "name": "Engine2",
+      "layerOrder": 1,
+      "slicePosition": {
+        "x": 3666,
+        "y": 692
+      },
+      "sliceSize": {
+        "x": 358,
+        "y": 850
+      },
+      "position": {
+        "x": 4.185,
+        "y": -5.297,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": 90
+    }
+  ],
+  "isSpecial": false
+}

@@ -1,0 +1,70 @@
+{
+  "aircraftType": "B737800",
+  "liveryFileName": "B737800_VARIG.png",
+  "pixelSize": 205,
+  "liveryComponent": [
+    {
+      "name": "Fuselage",
+      "layerOrder": 1,
+      "slicePosition": {
+        "x": 0,
+        "y": 13
+      },
+      "sliceSize": {
+        "x": 5987,
+        "y": 593
+      },
+      "position": {
+        "x": -2.43,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": 0
+    },
+    {
+      "name": "Engine1",
+      "layerOrder": 1,
+      "slicePosition": {
+        "x": 7,
+        "y": 626
+      },
+      "sliceSize": {
+        "x": 610,
+        "y": 349
+      },
+      "position": {
+        "x": 1.442993,
+        "y": 3.633003,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0
+    },
+    {
+      "name": "Engine2",
+      "layerOrder": 1,
+      "slicePosition": {
+        "x": 658,
+        "y": 626
+      },
+      "sliceSize": {
+        "x": 609,
+        "y": 349
+      },
+      "position": {
+        "x": 1.442993,
+        "y": -3.634003,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0
+    }
+  ],
+  "isSpecial": false
+}

@@ -1,0 +1,70 @@
+{
+  "aircraftType": "B737600",
+  "liveryFileName": "B737600_VASP.png",
+  "pixelSize": 205,
+  "liveryComponent": [
+    {
+      "name": "Fuselage",
+      "layerOrder": 1,
+      "slicePosition": {
+        "x": 0,
+        "y": 4
+      },
+      "sliceSize": {
+        "x": 5155,
+        "y": 593
+      },
+      "position": {
+        "x": -2.84,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": 0
+    },
+    {
+      "name": "Engine1",
+      "layerOrder": 1,
+      "slicePosition": {
+        "x": 7,
+        "y": 610
+      },
+      "sliceSize": {
+        "x": 609,
+        "y": 350
+      },
+      "position": {
+        "x": 1.442993,
+        "y": 3.633003,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0
+    },
+    {
+      "name": "Engine2",
+      "layerOrder": 1,
+      "slicePosition": {
+        "x": 657,
+        "y": 610
+      },
+      "sliceSize": {
+        "x": 609,
+        "y": 349
+      },
+      "position": {
+        "x": 1.442993,
+        "y": -3.634003,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0
+    }
+  ],
+  "isSpecial": false
+}
